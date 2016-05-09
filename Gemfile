@@ -46,4 +46,4 @@ end
 
 gem 'rspec'
 gem 'rspec-rails'
-gem 'ruby', '<= 2.3'
+gem 'ruby', '2.2.4'
